@@ -2,7 +2,7 @@
 
 Thinkorswim C# Client using RTD for realtime data feeds from the thinkorswim desktop client.
 
-
+RTD code inspired from http://awkwardcoder.com/2014/01/24/excel-rtd-client-in-c/
 
 ## Example
 
